@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+
+body {
+    font-family: "lora", Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #3e5d23;
+    background-color:rgb(250, 253, 243);
+}
+
+p {
+    margin-top: 20px;
+    color: #3d471c;
+}
+
+input {
+    width: 150px;
+    padding: 10px;
+    border: 2px solid #606c38;
+    border-radius: 4px;
+    background-color:#f7fbe9;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #90a955;
+    color: #30481a;
+    border-color: #606c38;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#message {
+    margin-top: 20px;
+    color: #a367a1;
+    font-weight: bold;
+}
